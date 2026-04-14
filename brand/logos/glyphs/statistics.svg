@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Statistics: bell curve in hexagonal frame -->
+  <!-- Hex base -->
+  <polygon points="100,186 150,158 150,102 100,74 50,102 50,158" fill="#C4A96B" stroke="#C4A96B" stroke-width="2"/>
+  <polygon points="100,181 145,155 145,105 100,79 55,105 55,155" fill="#1A3D2B" stroke="none"/>
+
+  <!-- Hexagonal frame for chart -->
+  <polygon points="100,88 136,109 136,150 100,171 64,150 64,109" fill="none" stroke="#F5EDD6" stroke-width="2.5"/>
+
+  <!-- Grid lines inside hex (faint) -->
+  <line x1="64" y1="129" x2="136" y2="129" stroke="#F5EDD6" stroke-width="0.8" opacity="0.4"/>
+  <line x1="64" y1="149" x2="136" y2="149" stroke="#F5EDD6" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Bell curve fill (area under curve) -->
+  <path d="M68,149 Q72,149 76,148 Q80,147 82,145 Q84,143 86,138 Q88,132 90,124 Q93,114 96,106 Q98,100 100,99 Q102,100 104,106 Q107,114 110,124 Q112,132 114,138 Q116,143 118,145 Q120,147 124,148 Q128,149 132,149 Z"
+        fill="#C4A96B" opacity="0.4"/>
+
+  <!-- Bell curve stroke -->
+  <path d="M68,149 Q72,149 76,148 Q80,147 82,145 Q84,143 86,138 Q88,132 90,124 Q93,114 96,106 Q98,100 100,99 Q102,100 104,106 Q107,114 110,124 Q112,132 114,138 Q116,143 118,145 Q120,147 124,148 Q128,149 132,149"
+        fill="none" stroke="#F5EDD6" stroke-width="2.8" stroke-linecap="round"/>
+
+  <!-- Baseline -->
+  <line x1="68" y1="149" x2="132" y2="149" stroke="#F5EDD6" stroke-width="2" opacity="0.7"/>
+
+  <!-- Center dashed line -->
+  <line x1="100" y1="100" x2="100" y2="149" stroke="#C4A96B" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+  <!-- Std deviation tick marks -->
+  <line x1="86" y1="145" x2="86" y2="153" stroke="#F5EDD6" stroke-width="1.5"/>
+  <line x1="114" y1="145" x2="114" y2="153" stroke="#F5EDD6" stroke-width="1.5"/>
+</svg>

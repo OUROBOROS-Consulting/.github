@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Coding / R: angle brackets with nested hex -->
+  <!-- Hex base -->
+  <polygon points="100,186 150,158 150,102 100,74 50,102 50,158" fill="#C4A96B" stroke="#C4A96B" stroke-width="2"/>
+  <polygon points="100,181 145,155 145,105 100,79 55,105 55,155" fill="#1A3D2B" stroke="none"/>
+
+  <!-- Left angle bracket < -->
+  <polyline points="88,100 64,129 88,158" fill="none" stroke="#F5EDD6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Right angle bracket > -->
+  <polyline points="112,100 136,129 112,158" fill="none" stroke="#F5EDD6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Center hex (the "R" symbol abstracted as a hex node)-->
+  <polygon points="100,113 112,120 112,134 100,141 88,134 88,120" fill="#C4A96B" stroke="#F5EDD6" stroke-width="2"/>
+  <!-- R letterform inside hex 
+  <path d="M94,125 L94,136" stroke="#1A3D2B" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M94,125 Q101,125 101,129 Q101,133 94,133" fill="none" stroke="#1A3D2B" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="97" y1="133" x2="103" y2="136" stroke="#1A3D2B" stroke-width="2.5" stroke-linecap="round"/>-->
+
+  <!-- Underscore / terminal cursor -->
+  <!--<rect x="90" y="163" width="20" height="3.5" fill="#C4A96B" rx="1"/>-->
+
+  <!-- Small hex cap
+  <polygon points="100,20 112,27 112,41 100,48 88,41 88,27" fill="none" stroke="#C4A96B" stroke-width="2"/>
+  <polygon points="100,28 107,32 107,40 100,44 93,40 93,32" fill="#1A3D2B"/>-->
+</svg>

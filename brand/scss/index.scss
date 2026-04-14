@@ -1,0 +1,26 @@
+// @OUROBOROS-Consulting/agentic-design
+// Accessible, elegant design system for OUROBOROS Consulting
+
+// Foundation: design tokens, reset, mixins, body texture
+@import "base";
+
+// Typography scale for prose
+@import "typography";
+
+// Component styles
+@import "buttons";
+@import "cards";
+@import "nav";
+@import "footer";
+
+// Layout & page-specific styles
+@import "home";
+@import "service";
+@import "essay";
+@import "cv";
+@import "linkedin";
+@import "timeline";
+@import "floorplan";
+
+// Design system reference (optional, for documentation)
+@import "design-system";

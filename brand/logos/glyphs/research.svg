@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Research / Evidence: magnifying glass over document -->
+  <!-- Hex base -->
+  <polygon points="100,186 150,158 150,102 100,74 50,102 50,158" fill="#C4A96B" stroke="#C4A96B" stroke-width="2"/>
+  <polygon points="100,181 145,155 145,105 100,79 55,105 55,155" fill="#1A3D2B" stroke="none"/>
+
+  <!-- Document -->
+  <rect x="62" y="96" width="56" height="72" rx="3" fill="#F5EDD6" stroke="#C4A96B" stroke-width="2"/>
+  <!-- Folded corner -->
+  <polygon points="100,96 118,96 118,112" fill="#C4A96B" opacity="0.6"/>
+  <polygon points="100,96 100,112 118,112" fill="#F5EDD6" stroke="#C4A96B" stroke-width="1.5"/>
+
+  <!-- Text lines on document -->
+  <line x1="70" y1="118" x2="108" y2="118" stroke="#C4A96B" stroke-width="2" opacity="0.7" stroke-linecap="round"/>
+  <line x1="70" y1="126" x2="108" y2="126" stroke="#C4A96B" stroke-width="2" opacity="0.7" stroke-linecap="round"/>
+  <line x1="70" y1="134" x2="95" y2="134" stroke="#C4A96B" stroke-width="2" opacity="0.7" stroke-linecap="round"/>
+
+  <!-- Magnifying glass (overlapping, lower right) -->
+  <!-- Glass circle -->
+  <circle cx="114" cy="148" r="18" fill="none" stroke="#F5EDD6" stroke-width="4"/>
+  <circle cx="114" cy="148" r="14" fill="#1A3D2B" opacity="0.5"/>
+  <!-- Lens glint -->
+  <line x1="107" y1="141" x2="111" y2="145" stroke="#F5EDD6" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <!-- Handle -->
+  <line x1="127" y1="161" x2="141" y2="175" stroke="#F5EDD6" stroke-width="5" stroke-linecap="round"/>
+</svg>
