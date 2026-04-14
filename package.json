@@ -2,9 +2,9 @@
   "name": "@ouroboros-consulting/ouroboros-design",
   "version": "1.0.0",
   "description": "Accessible, elegant design system for OUROBOROS Consulting",
-  "main": "scss/index.scss",
+  "main": "brand/scss/index.scss",
   "files": [
-    "scss/"
+    "brand/scss/"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
