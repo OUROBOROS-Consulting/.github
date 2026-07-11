@@ -1,15 +1,15 @@
-# Apostolos Stamenos
+# OUROBOROS Consulting
 
 **Founder, [OUROBOROS Consulting][ouroboros]** · Statistical analyst · Federal IT · Personality psychopathologist
 
+[![Claude][badge-claude]][github]
 [![R][badge-r]][github]
 [![Python][badge-py]][github]
 [![LaTeX][badge-latex]][github]
 [![C++][badge-cplusplus]][github]
 [![HTML][badge-html]][github]
 [![CSS][badge-css]][github]
-[![Claude][badge-claude]][github]
-[![Swift][badge-swift]][github]
+
 [![Quarto][badge-quarto]][github]
 
 > Practitioner at the intersection of statistics, clinical psychology, and institutional accountability. Building tools for the people systems leave behind.
