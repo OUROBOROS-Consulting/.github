@@ -9,7 +9,6 @@
 [![C++][badge-cplusplus]][github]
 [![HTML][badge-html]][github]
 [![CSS][badge-css]][github]
-
 [![Quarto][badge-quarto]][github]
 
 > Practitioner at the intersection of statistics, clinical psychology, and institutional accountability. Building tools for the people systems leave behind.
@@ -22,8 +21,6 @@
 - ★ **[Deslop / Veritas][deslop]** — prose voice auditing and factual accuracy review, adapted for client and academic contexts
 - ★ **[Malware Detect][malware]** — static file and URL triage with named cybersecurity principles and verdict escalation logic
 - ★ **LaTeX/PDF Pipeline** — full Markdown-to-PDF build system around ouroboros-report.sty; light-ground client variant included
-- ★ **PowerPoint Accessibility** — python-pptx tool for accessible presentation generation
-- ★ **Ouroboros Watch** — Apple Watch customization tooling built to the personal design system
 - ★ **Claude Skill Ecosystem** — interconnected analysis, writing, and consulting tools in active professional use
 
 ## Research
@@ -85,11 +82,12 @@ Dissertation-depth work in neuroimaging and mixed/hierarchical models. Practitio
 [badge-gh]: https://img.shields.io/badge/-GitHub-232925?style=for-the-badge&logo=github&logoColor=white
 
 <!-- Profiles — FILL IN -->
-[github]: https://github.com/FILL-GITHUB-USERNAME
+[github]: https://github.com/OUROBOROS-Consulting
 [linkedin]: https://www.linkedin.com/in/FILL-LINKEDIN-HANDLE/
 
+
 <!-- Firm & projects — FILL IN or remove if not public -->
-[ouroboros]: https://FILL-WEBSITE-OR-REMOVE
+[ouroboros]: https://ouroborosconsulting.org
 [darvo]: https://github.com/FILL-GITHUB-USERNAME/FILL-REPO-OR-REMOVE
 [deslop]: https://github.com/FILL-GITHUB-USERNAME/FILL-REPO-OR-REMOVE
 [malware]: https://github.com/FILL-GITHUB-USERNAME/FILL-REPO-OR-REMOVE
